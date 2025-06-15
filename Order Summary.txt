@@ -1,0 +1,3 @@
+Order Number	Ordered Items	Order Time	Order Expiry	Status		Amount		Customer Name	Contact Number
+2		Large Pizza	1331		1346		Delivery	0.0		Dwanye Johnson	1234567890Order Number	Ordered Items	Order Time	Order Expiry	Status		Amount		Customer Name	Contact Number
+3		Triple Decker	1431		1446		Delivery	0.0		Joseph Mbewe	1234567890

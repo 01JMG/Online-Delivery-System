@@ -1,0 +1,7 @@
+================================================SOME COMPANIES CLIENT LIST==========================================================
+Customer number	First Name	Middle Name	Last Name	Contact Number	Alternative Number	Customer Location
+	1	Joseph		Goodwell	Mbewe		0772922607	0967827364		Right Here
+	1	John		Cena	 		0772922607	0967827364		Top Guys Neighbour
+	1	John		Cena	 		0772922607	0967827364		Top Guys Neighbour
+	1	John		Champion	Cena		1234567890	987345601		WWE HeadQuarters
+	1	Shinsuke		Ironman	Nakamura		9876890912	1473829384		Live Location
